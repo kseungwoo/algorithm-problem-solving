@@ -1,4 +1,4 @@
-# 출처 : https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 
 def solution(phone_book):
     dict = {}
