@@ -3,7 +3,8 @@
 def check(n, m):
     str_n = format(n, 'b')
     str_next = format(m, 'b')
-    if sum(list(map(int, str_n))) == sum(list(map(int, str_next))):
+    # if sum(list(map(int, str_n))) == sum(list(map(int, str_next))):
+    if str_n.count('1') == str_next.count('1'):
         return True
     else:
         return False
