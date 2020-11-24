@@ -29,3 +29,37 @@ def solution(n, build_frame):
         do(build_inf, answer)
     answer.sort()
     return answer
+
+# Ideal Solution
+# def check(ans):
+#     for x, y, what in ans:
+#         if what == 0:
+#             if y == 0 or [x-1, y, 1] in ans or [x, y, 1] in ans or [x, y-1, 0] in ans:
+#                 continue
+#             else:
+#                 return False
+#         elif what == 1:
+#             if [x, y-1, 0] in ans or [x+1, y-1, 0] in ans or ([x-1, y, 1] in ans and [x+1, y, 1] in ans):
+#                 continue
+#             else:
+#                 return False
+#     return True
+#
+#
+# def solution(n, build_frame):
+#     answer = []
+#
+#     for f in build_frame:
+#         x, y, what, how = f
+#
+#         if how == 1:
+#             answer.append([x, y, what])
+#             if check(answer) is False:
+#                 answer.remove([x, y, what])
+#         else:
+#             answer.remove([x, y, what])
+#             if check(answer) is False:
+#                 answer.append([x, y, what])
+#
+#     answer.sort()
+#     return answer
