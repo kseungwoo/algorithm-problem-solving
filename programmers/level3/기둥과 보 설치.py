@@ -30,7 +30,7 @@ def solution(n, build_frame):
     answer.sort()
     return answer
 
-# Ideal Solution
+# Ideal Solution 출처 : https://johnyejin.tistory.com/125
 # def check(ans):
 #     for x, y, what in ans:
 #         if what == 0:
