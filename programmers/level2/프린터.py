@@ -4,10 +4,8 @@ def solution(priorities, location):
     sequences = [i for i in range(len(priorities))]
     while True:
         nth += 1
-        priority = priorities[0]
-        sequence = sequences[0]
-        del priorities[0]
-        del sequences[0]
+        priority = priorities.pop(0)
+        sequence = sequences.pop(0)
         for p in priorities:
             if p > priority:
                 priorities.append(priority)
