@@ -3,7 +3,7 @@
 # when the case become queue[0] visited check -> visited check before append to queue
 # deepcopy -> don't have to deepcopy because it is bfs and so we don't have to take 2 dimensional array to an argument of queue
 # deepcopy - bfs(x) dfs(o)
-# use deque not list when we use queue
+# use Deque not list when we use queue
 
 from collections import deque
 import sys
