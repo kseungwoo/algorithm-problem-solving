@@ -18,7 +18,7 @@
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 2) : 순위 검색
 
 ### 최단 경로 (Floyd-Warshall)
-- 프로그래머스/2021 카카오 채용연계형 인턴십(Level 3) : 합승 택시 요금
+- 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3) : 합승 택시 요금
 
 ### 시간 인덱싱 (Time Indexing)
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3) : 광고 삽입
