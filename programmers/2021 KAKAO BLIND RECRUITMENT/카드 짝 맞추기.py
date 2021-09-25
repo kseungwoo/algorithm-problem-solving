@@ -9,17 +9,17 @@ def solution(board, r, c):
     dc = [0, 0, -1, 1]
     q = deque()
     q.append([r, c, 0, -1, board])
-    s = set()
+    dp = set()
 
     while q:
         r, c, act, sel, board = q.popleft()
         if sum(map(sum, board)) == 0:
             answer = act
             break
-        if (r, c, sel, tuple(tuple(i) for i in board)) in s:
+        if (r, c, sel, tuple(tuple(i) for i in board)) in dp:
             continue
         else:
-            s.add((r, c, sel, tuple(tuple(i) for i in board)))
+            dp.add((r, c, sel, tuple(tuple(i) for i in board)))
 
         # enter
         if board[r][c] != 0:
