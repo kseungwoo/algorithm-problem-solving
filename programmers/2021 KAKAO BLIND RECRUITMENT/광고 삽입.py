@@ -1,3 +1,4 @@
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 def toSecond(s):
     s = s.split(':')
     return int(s[0]) * 3600 + int(s[1]) * 60 + int(s[2])
