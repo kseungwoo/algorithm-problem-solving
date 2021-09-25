@@ -22,3 +22,6 @@
 
 ### 시간 인덱싱 (Time Indexing)
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3) : 광고 삽입
+
+### 맨해튼 거리 (Manhattan Distance)
+- 프로그래머스/2020 카카오 인턴십(Level 1) : 키패드 누르기
