@@ -5,6 +5,10 @@
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 1) : 신규 아이디 추천
 - 프로그래머스/2020 카카오 인턴십(Level 2) : 수식 최대화
 
+### 완전 탐색 (Brute Force)
+- 프로그래머스/2020 카카오 인턴십(Level 2) : 수식 최대화
+- 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 3) : 자물쇠와 열쇠
+
 ### BFS
 - BOJ(Silver 1) : 미로 탐색
 - 프로그래머스/2021 카카오 채용연계형 인턴십(Level 2) : 거리두기 확인하기
