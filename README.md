@@ -3,6 +3,8 @@
 ### 문자열 다루기
 - 프로그래머스/2021 카카오 채용연계형 인턴십(Level 1) : 숫자 문자열과 영단어
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 1) : 신규 아이디 추천
+- 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 2) : 문자열 압축
+- 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 2) : 괄호 변환
 
 ### 완전 탐색 (Brute Force)
 - 프로그래머스/2020 카카오 인턴십(Level 2) : 수식 최대화
