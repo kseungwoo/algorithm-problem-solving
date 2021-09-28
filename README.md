@@ -28,6 +28,7 @@
 
 ### 집합 (Set)
 - 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 2) : 후보키
+- 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 3) : 자물쇠와 열쇠
 
 ### 이진 탐색 (Binary Search) @bisect
 - 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 1) : 실패율
