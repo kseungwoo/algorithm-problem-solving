@@ -1,6 +1,8 @@
 # 알고리즘 풀이 코드
 
 ### 문자열 다루기
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 2) : 오픈채팅방
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 3) : 매칭 점수
 - 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 2) : 문자열 압축
 - 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 2) : 괄호 변환
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 1) : 신규 아이디 추천
@@ -21,13 +23,19 @@
 - 프로그래머스/2021 카카오 채용연계형 인턴십(Level 2) : 거리두기 확인하기
 
 ### 연결 리스트 (Linked List)
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 3) : 무지의 먹방라이브
 - 프로그래머스/2021 카카오 채용연계형 인턴십(Level 3) : 표 편집
 
+### 집합 (Set)
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 2) : 후보키
+
 ### 이진 탐색 (Binary Search) @bisect
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 1) : 실패율
 - 프로그래머스/2020 KAKAO BLIND RECRUITMENT(Level 4) : 가사 검색
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 2) : 순위 검색
 
 ### 순열과 조합 @itertools
+- 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 2) : 후보키
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 2) : 메뉴 리뉴얼
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 2) : 순위 검색
 
