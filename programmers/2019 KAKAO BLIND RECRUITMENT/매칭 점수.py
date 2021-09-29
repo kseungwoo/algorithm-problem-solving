@@ -1,3 +1,4 @@
+# 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 def content(page):
     return page.split('<head>')[1].split('</head>')[0].split('<meta property="og:url" content="')[1].split('"/>')[0]
 
