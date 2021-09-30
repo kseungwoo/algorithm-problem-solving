@@ -43,6 +43,9 @@
 ### 최단 경로 (Floyd-Warshall)
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3) : 합승 택시 요금
 
+### 비트마스킹 (Bit Masking)
+- 프로그래머스/2017 KAKAO BLIND RECRUITMENT(Level 1) : 
+
 ### 시간 인덱싱 (Time Indexing)
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3) : 광고 삽입
 
