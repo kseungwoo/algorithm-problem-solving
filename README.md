@@ -1,5 +1,10 @@
 # 알고리즘 풀이 코드
 
+### 그리디(Greedy)
+- thiscodingtest/1이 될 때까지
+- thiscodingtest/숫자 카드 게임
+- thiscodingtest/큰 수의 법칙
+
 ### 문자열 다루기
 - 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 2) : 오픈채팅방
 - 프로그래머스/2019 KAKAO BLIND RECRUITMENT(Level 3) : 매칭 점수
