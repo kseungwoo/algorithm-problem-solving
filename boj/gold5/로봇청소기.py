@@ -12,6 +12,7 @@ mp[r][c] = 2
 while True:
     done = False
     for _ in range(4):
+        # 코드 가독성을 위해 next_r, next_c 변수 선언
         next_r, next_c = r + dir[(d + 3) % 4][0], c + dir[(d + 3) % 4][1]
         if 0 <= next_r < N and 0 <= next_c < M and mp[next_r][next_c] == 0:
             d = (d + 3) % 4
@@ -25,7 +26,7 @@ while True:
 
     if done:
         continue
-
+    # 코드 가독성을 위해 next_r, next_c 변수 선언
     next_r, next_c = r + dir[(d + 2) % 4][0], c + dir[(d + 2) % 4][1]
     if 0 <= next_r < N and 0 <= next_c < M and mp[next_r][next_c] == 2:
         r, c = next_r, next_c
