@@ -12,9 +12,10 @@ mp[r][c] = 2
 while True:
     done = False
     for _ in range(4):
-        if 0 <= r + dir[(d + 3) % 4][0] < N and 0 <= c + dir[(d + 3) % 4][1] < M and mp[r + dir[(d + 3) % 4][0]][c + dir[(d + 3) % 4][1]] == 0:
+        next_r, next_c = r + dir[(d + 3) % 4][0], c + dir[(d + 3) % 4][1]
+        if 0 <= next_r < N and 0 <= next_c < M and mp[next_r][next_c] == 0:
             d = (d + 3) % 4
-            r, c = r + dir[d][0], c + dir[d][1]
+            r, c = next_r, next_c
             mp[r][c] = 2
             count += 1
             done = True
@@ -25,8 +26,9 @@ while True:
     if done:
         continue
 
-    if 0 <= r + dir[(d + 2) % 4][0] < N and 0 <= c + dir[(d + 2) % 4][1] < M and mp[r + dir[(d + 2) % 4][0]][c + dir[(d + 2) % 4][1]] == 2:
-        r, c = r + dir[(d + 2) % 4][0], c + dir[(d + 2) % 4][1]
+    next_r, next_c = r + dir[(d + 2) % 4][0], c + dir[(d + 2) % 4][1]
+    if 0 <= next_r < N and 0 <= next_c < M and mp[next_r][next_c] == 2:
+        r, c = next_r, next_c
         continue
     else:
         break
