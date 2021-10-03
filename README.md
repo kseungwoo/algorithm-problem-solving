@@ -6,6 +6,7 @@
 - thiscodingtest: 시각
 - thiscodingtest: 왕실의 나이트
 - BOJ(Gold 5): 로봇청소기
+- 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 2): 방금그곡
 
 ### 그리디(Greedy)
 - thiscodingtest: 1이 될 때까지
@@ -56,7 +57,7 @@
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3): 합승 택시 요금
 
 ### 비트마스킹 (Bit Masking)
-- 프로그래머스/2017 KAKAO BLIND RECRUITMENT(Level 1): 
+- 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 1): 비밀지도
 
 ### 시간 인덱싱 (Time Indexing)
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3): 광고 삽입
