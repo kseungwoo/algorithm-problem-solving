@@ -5,7 +5,6 @@ def parse(m):
             continue
         elif i != len(m) - 1 and m[i + 1] == '#':
             p.append(m[i:i + 2] + '-')
-            i += 1
         else:
             p.append(m[i] + '-')
     return p
