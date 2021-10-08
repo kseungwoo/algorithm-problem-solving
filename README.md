@@ -9,6 +9,7 @@
 - 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 2): 방금그곡
 - 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 2): 프렌즈4블록
 - 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 2): 뉴스 클러스터링
+- 프로그래머스/2018 KAKAO BLIND RECRUITMENT(Level 2): 캐시
 
 ### 그리디(Greedy)
 - thiscodingtest: 1이 될 때까지
