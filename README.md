@@ -47,6 +47,7 @@
 - BOJ(Gold 5): 숨바꼭질2
 - BOJ(Gold 5): 숨바꼭질3
 - BOJ(Gold 2): 구슬탈출2
+- BOJ(Gold 5): 연구소
 - 프로그래머스/2020 카카오 인턴십(Level 3): 경주로 건설
 - 프로그래머스/2021 KAKAO BLIND RECRUITMENT(Level 3): 카드 짝 맞추기
 - 프로그래머스/2021 카카오 채용연계형 인턴십(Level 2): 거리두기 확인하기
