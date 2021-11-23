@@ -13,12 +13,12 @@ def check_binary_search_tree_(root):
     q = deque([(root, float('-inf'), float('inf'))])
     while q:
         cur, floor, ceil = q.popleft()
-        if cur.left != None:
+        if cur.left is not None:
             if cur.left.data >= cur.data or cur.left.data <= floor:
                 return False
             else:
                 q.append((cur.left, floor, min(ceil, cur.data)))
-        if cur.right != None:
+        if cur.right is not None:
             if cur.right.data <= cur.data or cur.right.data >= ceil:
                 return False
             else:
