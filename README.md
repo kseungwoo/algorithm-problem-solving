@@ -1,7 +1,7 @@
 # 알고리즘 풀이 코드
 
 ## :pencil: 규칙
-- 꾸준히 풀기 -> [커밋 액티비티](https://github.com/kseungwoo/algorithm-problem-solving/graphs/commit-activity) 
+- 꾸준히 풀기
 - 블로그에 기록 -> [티스토리](https://seungwoolog.tistory.com/category/Algorithm/Problem%20Solving)
 
 ## :open_file_folder: Sorted By Algorithm
